@@ -1,0 +1,17 @@
+#heading1{
+    color: green;
+    font-size: 20px;
+    font-weight: 800;
+    
+}
+#parent{
+    border: 1px solid red;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
+.children{
+    box-shadow: 1px 2px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
